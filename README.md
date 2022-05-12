@@ -19,8 +19,6 @@
 打开前端app文件夹下的build.gradle工程文件，选择修改位置如下：
 
 
-<p>defaultConfig {<br>applicationId "cn.yuenos.com" //包名<br>minSdkVersion 22<br>versionCode 503<br>versionName "5.1.7" //版本号<br>版本号如升级可修改信息为目前的多一级 反正不要比现在的版本低就好<br>不然会一直弹出升级提示.</p>
-
  * 功能介绍
 
 1、新增长按快进，释放恢复原倍速非默认倍速 3X倍数
@@ -38,6 +36,6 @@
 13、修复购买记录和收藏混淆问题
 14、整体UI调整
 
-QQ 1429438759
-bbs blog.zmolc.com
-价格 109
+- QQ 1429438759
+> bbs blog.zmolc.com
+* 价格 109
